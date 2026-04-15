@@ -51,19 +51,26 @@ Current time series analysis paradigms face fundamental limitations:
 |:---:|-------|-----------|:-----:|
 | 1 | Mingyue Cheng, Xiaoyu Tao, Qi Liu, Ze Guo, Enhong Chen. <br/> **Position: Beyond Model-Centric Prediction — Agentic Time Series Forecasting** | 率先探索 Agentic Time Series Forecasting 范式的立场 paper。 | [![arXiv](https://img.shields.io/badge/arXiv-2602.01776-b31b1b.svg)](https://arxiv.org/pdf/2602.01776) |
 
+### Time Series Analysis
+
+|  | Paper | Highlight | Links |
+|:---:|-------|-----------|:-----:|
+| 1 | Garza A, Rosillo R. <br/> **TimeCopilot** | 通用时间序列分析智能体。 | [![arXiv](https://img.shields.io/badge/arXiv-2509.00616-b31b1b.svg)](https://arxiv.org/pdf/2509.00616) |
+| 2 | Zhao H, Zhang X, Wei J, et al. <br/> **Timeseriesscientist: A General-Purpose AI Agent for Time Series Analysis** | 通用时间序列分析智能体。 | [![arXiv](https://img.shields.io/badge/arXiv-2510.01538-b31b1b.svg)](https://arxiv.org/pdf/2510.01538) |
+
 ### Time Series Forecasting
 
 |  | Paper | Highlight | Links |
 |:---:|-------|-----------|:-----:|
-| 2 | Xiaohan Zhang, Tian Gao, Mingyue Cheng\*, Bokai Pan, Ze Guo, Yaguo Liu, Xiaoyu Tao. <br/> **AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Interactive Time Series Forecasting** | 率先探索人机协同交互式时间序列预测范式。 | [![arXiv](https://img.shields.io/badge/arXiv-2511.08947-b31b1b.svg)](https://arxiv.org/pdf/2511.08947) <br/> [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/SkyeGT/AlphaCast_Official) |
-| 3 | Xiaoyu Tao, Mingyue Cheng, Chuang Jiang, Tian Gao, Huanjian Zhang, Yaguo Liu. <br/> **Cast-R1: Learning Tool-Augmented Sequential Decision Policies for Time Series Forecasting** | 首个基于多轮强化学习训练的时间序列预测智能体。 | [![arXiv](https://img.shields.io/badge/arXiv-2602.13802-b31b1b.svg)](https://arxiv.org/pdf/2602.13802) <br/> [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/Xiaoyu-Tao/Cast-R1-TS) |
-| 4 | Xiaoyu Tao, Mingyue Cheng\*, Ze Guo, Shuo Yu, Yaguo Liu, Qi Liu, Shijin Wang. <br/> **MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning** | 率先探索基于经验积累与持续进化的时间序列预测范式。 | [![arXiv](https://img.shields.io/badge/arXiv-2602.03164-b31b1b.svg)](https://arxiv.org/pdf/2602.03164) <br/> [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/Xiaoyu-Tao/MemCast-TS) |
+| 1 | Xiaohan Zhang, Tian Gao, Mingyue Cheng\*, Bokai Pan, Ze Guo, Yaguo Liu, Xiaoyu Tao. <br/> **AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Interactive Time Series Forecasting** | 率先探索人机协同交互式时间序列预测范式。 | [![arXiv](https://img.shields.io/badge/arXiv-2511.08947-b31b1b.svg)](https://arxiv.org/pdf/2511.08947) <br/> [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/SkyeGT/AlphaCast_Official) |
+| 2 | Xiaoyu Tao, Mingyue Cheng, Chuang Jiang, Tian Gao, Huanjian Zhang, Yaguo Liu. <br/> **Cast-R1: Learning Tool-Augmented Sequential Decision Policies for Time Series Forecasting** | 首个基于多轮强化学习训练的时间序列预测智能体。 | [![arXiv](https://img.shields.io/badge/arXiv-2602.13802-b31b1b.svg)](https://arxiv.org/pdf/2602.13802) <br/> [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/Xiaoyu-Tao/Cast-R1-TS) |
+| 3 | Xiaoyu Tao, Mingyue Cheng\*, Ze Guo, Shuo Yu, Yaguo Liu, Qi Liu, Shijin Wang. <br/> **MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning** | 率先探索基于经验积累与持续进化的时间序列预测范式。 | [![arXiv](https://img.shields.io/badge/arXiv-2602.03164-b31b1b.svg)](https://arxiv.org/pdf/2602.03164) <br/> [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/Xiaoyu-Tao/MemCast-TS) |
 
 ### Time Series Anomaly Detection
 
 |  | Paper | Highlight | Links |
 |:---:|-------|-----------|:-----:|
-| 5 | Xiaoyu Tao, Yuchong Wu, Mingyue Cheng, Ze Guo, Tian Gao. <br/> **AnomaMind: Agentic Time Series Anomaly Detection with Tool-Augmented Reasoning** | — | [![arXiv](https://img.shields.io/badge/arXiv-2602.13807-b31b1b.svg)](https://arxiv.org/pdf/2602.13807) <br/> [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/Xiaoyu-Tao/AnomaMind-TS) |
+| 1 | Xiaoyu Tao, Yuchong Wu, Mingyue Cheng, Ze Guo, Tian Gao. <br/> **AnomaMind: Agentic Time Series Anomaly Detection with Tool-Augmented Reasoning** | — | [![arXiv](https://img.shields.io/badge/arXiv-2602.13807-b31b1b.svg)](https://arxiv.org/pdf/2602.13807) <br/> [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/Xiaoyu-Tao/AnomaMind-TS) |
 
 ---
 
